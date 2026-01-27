@@ -1,1 +1,1 @@
-# Gleb_homework
+print('tyda-syda-millioner')
