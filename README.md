@@ -1,1 +1,1 @@
-print('tyda-syda-millioner')
+tyda-syda-millioner
